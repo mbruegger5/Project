@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "c025bf63-debb-448a-9063-779a9b19a717": {
+      "label": "Label",
+      "is_offline": false,
+      "file_url": "",
+      "duration": 90,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "Label",
+  "created_at": "2025-01-22T16:53:30.355Z",
+  "created_by": "mbruegger5",
+  "updated_at": "2025-01-22T16:53:30.355Z",
+  "updated_by": "mbruegger5"
+}

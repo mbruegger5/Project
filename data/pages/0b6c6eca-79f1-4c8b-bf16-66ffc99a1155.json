@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-01-22T16:53:30.509Z",
+  "created_by": "mbruegger5",
+  "title": "Label",
+  "slug": "label",
+  "updated_at": "2025-01-22T16:53:30.509Z",
+  "updated_by": "mbruegger5",
+  "parent": "a220dd66-4148-4400-a5d3-07ce478b9f92",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "99c838b9-1cd2-4d7e-b157-9097032327c6"
+  }
+}
